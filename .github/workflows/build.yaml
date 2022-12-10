@@ -35,9 +35,9 @@ jobs:
               echo "🛑 No valid Hugo configuration file found."
           fi
         # Build and push the generated site to the repository
-      - name: 🚀 Build and deploy to GitHub Pages
-        uses: victoriadrake/hugo-latest-cd@master
-        if: env.CONFIG_EXISTS
+        #      - name: 🚀 Build and deploy to GitHub Pages
+        #        uses: victoriadrake/hugo-latest-cd@master
+        #        if: env.CONFIG_EXISTS
         # And deploy to Neocities
       - name: 🐈 Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@master
