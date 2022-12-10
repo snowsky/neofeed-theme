@@ -1,9 +1,9 @@
 # Your full site URL. Example:
 # "https://<username>.neocities.org/"
-baseURL = "https://example.com/"
+baseURL = "https://nonsenseme.me/"
 languageCode = "en-us"
 # Title of your site
-title = "Neofeed"
+title = "Nonsense ME in one voice"
 # How many feed entries to load at once
 paginate = 6
 
@@ -11,7 +11,7 @@ paginate = 6
 tag = "tags"
 
 [author]
-name = "Chihiro Ogino" # Your online name
+name = "Satoshi Nakamoto" # Your online name
 # Your profile image. External link or relative to static/. Examples:
 # "https://imgur.com/123456788"
 # "image/me.webp"
