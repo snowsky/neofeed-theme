@@ -36,7 +36,7 @@ jobs:
           fi
       # Build and push the generated site to the repository
       - name: 🚀 Build and deploy to GitHub Pages
-        uses: victoriadrake/hugo-latest-cd@master
+        uses: snowsky/hugo-cd@master
         if: env.CONFIG_EXISTS
       # And deploy to Neocities
       - name: 🐈 Deploy to Neocities
