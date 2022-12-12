@@ -1,0 +1,24 @@
+{
+  "name": "neofeed-theme",
+  "version": "1.0.0",
+  "description": "(っ◔◡◔)っ A personal timeline for the IndieWeb that can deploy to Neocities and GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowsky/neofeed-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowsky/neofeed-theme/issues"
+  },
+  "homepage": "https://github.com/snowsky/neofeed-theme#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss-cli": "^10.1.0"
+  }
+}
