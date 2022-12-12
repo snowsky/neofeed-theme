@@ -73,7 +73,7 @@ jobs:
       # And deploy to Neocities
       - name: 🐈 Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@master
-        if: ${{ secrets.NEOCITIES_API_TOKEN }}
+#         if: ${{ env.NEOCITIES_API_TOKEN }}
         with:
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
           cleanup: false
