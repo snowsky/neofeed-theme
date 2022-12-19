@@ -1,9 +1,9 @@
 # Your full site URL. Example:
 # "https://<username>.neocities.org/"
-baseURL = "https://nonsenseme.me/"
+baseURL = "https://snowsky.neocities.org/"
 languageCode = "en-us"
 # Title of your site
-title = "Nonsense ME in one voice"
+title = "Nonsense ME 1"
 # How many feed entries to load at once
 paginate = 6
 
